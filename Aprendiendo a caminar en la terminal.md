@@ -2,8 +2,6 @@
 
 El sistema de archivos, será el árbol por el que nos estaremos moviendo en la terminal.
 
-![Aprendiendo%20a%20caminar%20en%20la%20terminal%202a902b75fdd94c9691e01594397681c3/2._Slides.png](Aprendiendo%20a%20caminar%20en%20la%20terminal%202a902b75fdd94c9691e01594397681c3/2._Slides.png)
-
 Aquí se encuentran los archivos del sistema operativo, así como también los ejecutables, controladores, archivos de configuración, etcétera.
 
 En la carpeta `home` es donde se encuentran los usuarios del sistema operativo. Dentro de la terminal identificamos esta carpeta con el símbolo llamado virgulilla `~`.
