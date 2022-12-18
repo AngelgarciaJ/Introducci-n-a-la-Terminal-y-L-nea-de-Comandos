@@ -1,2 +1,2 @@
-# Introducci-n-a-la-Terminal-y-L-nea-de-Comandos
+# Introduccion-a-la-Terminal-y-Linea-de-Comandos
 se 
