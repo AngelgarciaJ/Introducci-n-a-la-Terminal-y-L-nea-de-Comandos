@@ -1,0 +1,65 @@
+# Manipulando archivos y directorios
+
+### Listando elementos
+
+Comando
+
+ls -la
+
+ls -lS
+
+ls -lr
+
+tree
+
+tree -L {#}
+
+Acción
+
+Lista todos los elementos del directorio, incluidos los ocultos.
+
+Lista todos los elementos iniciando por los más pesados.
+
+Lista todos los elementos de forma inversa.
+
+Despliega todos nuestros directorios como un árbol.
+
+Despliega los elementos que se encuentren en el nivel indicado.
+
+### Manipulación de elementos
+
+**Comando**
+
+mkdir {folder}
+
+touch {file}
+
+cp {original} {copia}
+
+mv {file} {path}
+
+mv {name} {new_name}
+
+rm {file}
+
+rm -i {file}
+
+rm -r {folder}
+
+**Acción**
+
+Crea un nuevo directorio con el nombre indicado.
+
+Crea un nuevo archivo con el nombre indicado.
+
+Copia un archivo.
+
+Mueve el archivo a la ubicación deseada.
+
+Renombra el archivo o directorio.
+
+Elimina el archivo indicado.
+
+Pide confirmación antes de eliminar el archivo.
+
+Elimina el directorio indicado.

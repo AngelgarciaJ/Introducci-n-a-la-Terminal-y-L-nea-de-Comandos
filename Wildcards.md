@@ -1,0 +1,49 @@
+# Wildcards
+
+Las `wildcards` son una serie de patrones o caracteres especiales que nos permiten realizar búsquedas avanzadas.
+
+Ejemplos de estos patrones:
+
+1. Filtrar archivos que terminen en una extensión en particular.
+    
+    ```bash
+    ls *.txt
+    ```
+    
+2. Filtrar archivos que contengan una palabra en específico.
+    
+    ```bash
+    ls datos*
+    ```
+    
+3. Filtrar archivos que contengan solo un carácter después de la palabra especificada.
+    
+    ```bash
+    ls datos?
+    ```
+    
+4. Filtrar archivos que tengan tres caracteres después de la palabra especificada.
+    
+    ```bash
+    ls datos???
+    ```
+    
+5. Filtrar todos los archivos y directorios que inicien con una mayúscula.
+    
+    ```bash
+    ls [[:upper:]]* # Busca en todo el arbol
+    ls -d [[:upper:]]* # Busca solo en el directorio actual
+    ```
+    
+6. Filtrar todos los archivos y directorios que inicien con una minúscula.
+    
+    ```bash
+    ls [[:lower:]]* # Busca en todo el arbol
+    ls -d [[:lower:]]* # Busca solo en el directorio actual
+    ```
+    
+7. Mostrar todos los archivos que comiencen con una `a` o `d`.
+    
+    ```bash
+    ls [ad]*
+    ```
