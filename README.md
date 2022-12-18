@@ -20,8 +20,8 @@ Encontraras comandos basicos para enpezar a usar la terminal, usaremos como base
 las opciones posibles: 
 1. instalar linux en una particion 
 2. ponerlo de arranque en una USB 
-3.[si tienes Windows 10 o superior usa WSL version 2](https://learn.microsoft.com/es-es/windows/wsl/instal) recomendado
-   - si te interesa puedes puedes personalizar WSL como tu [entorno de desarrollo de trabajo](https://learn.microsoft.com/es-mx/windows/wsl/setup/environment)
+3. [si tienes Windows 10 o superior usa WSL version 2](https://learn.microsoft.com/es-es/windows/wsl/instal) recomendado
+   - NOTA: si te interesa puedes puedes personalizar WSL como tu [entorno de desarrollo de trabajo](https://learn.microsoft.com/es-mx/windows/wsl/setup/environment)
 ---
 
 **YA ESTAS LIST@ PARA COMENZAR**
